@@ -1,4 +1,4 @@
-# 🎬 Fridays Works - Video Showcase
+# 🎬 Fridays Work - Video Showcase
 
 Welcome to the **Fridays Works** project! Below, you can find previews of our latest creative productions. Click on any thumbnail to watch the corresponding video.
 
